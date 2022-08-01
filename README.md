@@ -9,3 +9,8 @@
 
 
 # How to use:
+
++ 1. Connect your joy-con to your pc via bluetooth settings.
++ 2. Open the main.exe file in the folder.
++ 3. Make backup of controller (may take up to 10 minutes).
++ 4. Change colors and save.
