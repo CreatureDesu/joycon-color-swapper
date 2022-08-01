@@ -6,7 +6,8 @@
 * 99% of the credit goes to @CTCaer on gbatemp, this is basically just a reupload for github
 
 ![info](https://user-images.githubusercontent.com/85678708/182126878-b2c1f917-4365-464f-b241-e68d6b67281a.png)
-![ezgif-5-451b31c739-modified](https://user-images.githubusercontent.com/85678708/182127361-b196b127-78e3-4652-b056-49b388ff3590.png)
+
+![resize](https://user-images.githubusercontent.com/85678708/182127539-97e40fc9-18c6-4c73-94ec-eade7c649bec.png)
 
 
 # How to use:
