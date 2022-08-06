@@ -2,7 +2,7 @@
 
 *A simple program to change the color of the joy-cons. This runs as an .exe file.*
 
-# [Download Latest Release](https://github.com/CreatureDesu/joycon-color-swapper/releases/tag/release)
+[Download Latest Release](https://github.com/CreatureDesu/joycon-color-swapper/releases/tag/release)
 
 * Changed a couple things from this program: https://gbatemp.net/threads/tool-joy-con-toolkit.478560/
 * 99% of the credit goes to @CTCaer on gbatemp, this is basically just a reupload for github with a couple fixes.
