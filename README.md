@@ -1,4 +1,4 @@
-# Joycon-Color-Swapper
+# ʕಠᴥಠʔ Joycon Color Swapper ʕಠᴥಠʔ
 
 *A simple program to change the color of the joy-cons. This runs as an .exe file.*
 
